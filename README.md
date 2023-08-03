@@ -5,6 +5,7 @@ Overview:
 This guide will walk you through the process of converting a YOLO dataset to MATLAB format, allowing you to use it efficiently in the Image Labeler app. The provided code is designed for a dataset with two objects, but it can be easily adapted for datasets with more classes by making a few simple modifications.
 
 Steps:
+
 edit files with your classes names
 
 Organize Your Dataset:
