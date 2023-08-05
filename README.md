@@ -23,6 +23,4 @@ Run the convert_table_to_ground_truth.mlx MATLAB script once for each class in y
 Load Labels for Each Class:
 After running the conversion script for each class, load the generated ground truth labels from the MATLAB workspace into the Image Labeler app.
 
-Repeat for Additional Classes:
-If your dataset contains more than two classes, simply repeat steps 4 and 5 for each additional class
 With these steps, you'll be able to efficiently convert your YOLO dataset into a format compatible with the Image Labeler app in MATLAB. Enjoy annotating and working with your custom dataset for various computer vision tasks!
